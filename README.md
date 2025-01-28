@@ -1,2 +1,2 @@
 # AuxiliaryAdventures
-Additional Adventures of the A11y Cats
+Auxiliary-Adventures-of-the-A11y-Cats
